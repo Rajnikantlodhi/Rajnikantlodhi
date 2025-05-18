@@ -3,7 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajnikantlodhi&label=Profile%20views&color=0e75b6&style=flat" alt="rajnikantlodhi" /> </p>
 
+- 🌱 I’m currently learning **AI and DSA**
+
 - 👨‍💻 All of my projects are available at [https://github.com/Rajnikantlodhi/Rajnikantlodhi/edit/main/README.md](https://github.com/Rajnikantlodhi/Rajnikantlodhi/edit/main/README.md)
+
+- 💬 Ask me about **JavaScript, TypeScript, Angular, Reactjs and React Native, Ionic, DevOps, IoT, Nodejs, Nestjs, Mongoose**
+
+- 📫 How to reach me **rajnikantlodhi0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
