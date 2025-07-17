@@ -18,7 +18,7 @@
 </p>
 <h3 align="left">AI Tools:</h3>
 
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a></p>
+<p align="left"> <a href="https://github.com/Rajnikantlodhi/Rajnikantlodhi" target="_blank" rel="noreferrer"> <img src="https://tinyurl.com/mud8st9s" alt="angular" width="40" height="40"/> </a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
