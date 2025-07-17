@@ -36,16 +36,4 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&width=735&lines=Thanks+for+visiting+my+profile!+Happy+coding!+%F0%9F%91%BB"/>
 </p>
-<p align="left">
-  <img 
-    src="https://skillicons.dev/icons?i=angular,react,reactnative,typescript,javascript,nodejs,nestjs,html,css,sass,tailwind,vue,redux,bootstrap,cordova,ionic,nextjs,d3,docker,kubernetes,aws,express,firebase,graphql,jenkins,git,mongodb,postgresql,linux,webpack,postman,opencv,jest,cypress"
-    alt="Skill Icons"
-    width="100%" 
-    style="
-      transition: transform 0.4s ease, box-shadow 0.4s ease;
-      display: inline-block;
-    "
-    onmouseover="this.style.transform='scale(1.05) rotate(1deg)'; this.style.boxShadow='0 4px 20px rgba(0,0,0,0.2)'"
-    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'"
-  />
-</p>
+
