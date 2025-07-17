@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rajnikant lodhi</h1>
-<h3 align="center">A highly skilled Front-End Developer with over 7+ years of hands-on experience in developing scalable web and mobile applications using JavaScript, TypeScript, Angular, React, and Ionic. Adept at creating performant user interfaces with a strong focus on user experience, design principles, and maintainable code. Proven track record in contributing to complex projects in cross-functional teams, with certifications in IoT & Digital Engineering. Passionate about solving challenging problems, building high-quality products, and thriving in dynamic environments.</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rajnikant+Lodhi"/>
+</h1>
+<h3 align="left">A highly skilled Front-End Developer with over 7+ years of hands-on experience in developing scalable web and mobile applications using JavaScript, TypeScript, Angular, React, and Ionic. Adept at creating performant user interfaces with a strong focus on user experience, design principles, and maintainable code. Proven track record in contributing to complex projects in cross-functional teams, with certifications in IoT & Digital Engineering. Passionate about solving challenging problems, building high-quality products, and thriving in dynamic environments.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajnikantlodhi&label=Profile%20views&color=0e75b6&style=flat" alt="rajnikantlodhi" /> </p>
 
