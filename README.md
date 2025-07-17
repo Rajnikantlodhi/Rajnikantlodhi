@@ -36,4 +36,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&width=735&lines=Thanks+for+visiting+my+profile!+Happy+coding!+%F0%9F%91%BB"/>
 </p>
+<p align="center">
+  <img src="https://loading.io/assets/img/p/icon/bk/rocket.svg"/>
+</p>
 
