@@ -31,3 +31,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajnikantlodhi&show_icons=true&locale=en&layout=compact" alt="rajnikantlodhi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajnikantlodhi&show_icons=true&locale=en" alt="rajnikantlodhi" /></p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&width=735&lines=Thanks+for+visiting+my+profile!+Happy+coding!+%F0%9F%91%BB"/>
+</p>
