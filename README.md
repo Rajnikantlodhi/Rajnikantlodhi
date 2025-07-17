@@ -18,7 +18,7 @@
 </p>
 <h3 align="left">AI Tools:</h3>
 
-<p align="left"> <a href="https://github.com/Rajnikantlodhi/Rajnikantlodhi" target="_blank" rel="noreferrer"> <img src="https://tinyurl.com/mud8st9s" alt="angular" width="40" height="40"/> </a><a href="https://github.com/Rajnikantlodhi/Rajnikantlodhi" target="_blank" rel="noreferrer"> <img src="https://tinyurl.com/3v3v9m8m" alt="angular" width="40" height="40"/> </a> <a href="https://github.com/Rajnikantlodhi/Rajnikantlodhi" target="_blank" rel="noreferrer"> <img src="https://tinyurl.com/3j9767jd" alt="angular" width="40" height="40"/> </a>
+<p align="left"> <a href="https://github.com/Rajnikantlodhi/Rajnikantlodhi" target="_blank" rel="noreferrer"> <img src="https://tinyurl.com/mud8st9s" alt="chatgpt" width="40" height="40"/> </a><a href="https://github.com/Rajnikantlodhi/Rajnikantlodhi" target="_blank" rel="noreferrer"> <img src="https://tinyurl.com/3v3v9m8m" alt="CoPilot" width="40" height="40"/> </a> <a href="https://cursor.com/" target="_blank" rel="noreferrer"> <img src="https://tinyurl.com/3j9767jd" alt="cursor" width="40" height="40"/> </a>
 
 </p>
 
